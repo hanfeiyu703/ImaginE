@@ -1,0 +1,29 @@
+# Local data and generated training outputs
+data/
+outputs/
+logs/
+experiments/
+checkpoints/
+
+# Large model/checkpoint artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local editor/system files
+.DS_Store
+.idea/
+.vscode/
+
+# Archives and logs
+*.log
+*.zip
