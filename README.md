@@ -1,13 +1,13 @@
-# ImaginE for Multimodal Named Entity Recognition
+# TCHV for Multimodal Named Entity Recognition
 
-This repository contains the core code for the ImaginE multimodal NER model
+This repository contains the core code for the TCHV multimodal NER model
 used in the paper code-review package. It keeps only the training/evaluation
 pipeline and model implementation; datasets, checkpoints, logs, and experiment
 artifacts are intentionally excluded.
 
 ## Core Idea
 
-ImaginE is a bidirectional imagination framework for multimodal NER. Given a
+TCHV is a bidirectional imagination framework for multimodal NER. Given a
 candidate text span and an image, the model predicts type-conditioned imagined
 representations across modalities, compares the imagined representations with
 the observed image/text features, and fuses these scores for span-level entity
