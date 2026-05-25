@@ -1,6 +1,6 @@
-# ImaginE
+# TCHV
 
-This repository contains a span-based ImaginE implementation for multimodal named entity recognition and grounding.
+This repository contains a span-based TCHV implementation for multimodal named entity recognition and grounding.
 
 Supported tasks:
 
